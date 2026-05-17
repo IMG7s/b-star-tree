@@ -11,9 +11,7 @@ env/
 .idea/
 .vscode/
 
-results/*.png
-results/*.csv
-results/*.json
+
 data/*.txt
 data/*.csv
 
